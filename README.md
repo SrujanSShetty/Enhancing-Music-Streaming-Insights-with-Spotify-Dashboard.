@@ -21,6 +21,16 @@ This project features an interactive Power BI dashboard designed to analyze Spot
 - **Bravo**: External tool for time intelligence insights.
 - **DENEB**: For advanced visual customizations in Power BI.
 
+
+## Viewing the Power BI File
+
+The Power BI file (`.pbix`) is too large to be displayed directly on GitHub. You can download it from [Google Drive]([your-link-here](https://drive.google.com/file/d/1FHbvrJRPHRwTbt5IX08azhulm2VPfFze/view?usp=sharing)) to explore the full dashboard.
+
+### Screenshot
+![Dashboard Screenshot]("C:\Users\SRUJA\Downloads\Dashboard Projects\Spotify 2023\Screenshot Dashboard.png")
+
+
+
 ## Installation & Usage
 1. **Clone the repository**:
    ```bash
