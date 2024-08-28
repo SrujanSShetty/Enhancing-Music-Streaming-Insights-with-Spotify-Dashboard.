@@ -24,7 +24,7 @@ This project features an interactive Power BI dashboard designed to analyze Spot
 
 ## Viewing the Power BI File
 
-The Power BI dashboard file is too large to be displayed directly on GitHub. You can download it from [Google Drive](https://drive.google.com/u/3/folders/1f9UUAklOLgRY1Ew_nBq5uudEFvH7k56W).
+The Power BI dashboard file is too large to be displayed directly on GitHub. You can download it from [Google Drive]([https://drive.google.com/u/3/folders/1f9UUAklOLgRY1Ew_nBq5uudEFvH7k56W](https://drive.google.com/file/d/1FHbvrJRPHRwTbt5IX08azhulm2VPfFze/view?usp=drive_link)).
 
 ## Spotify Stream Analytics Dashboard
 
